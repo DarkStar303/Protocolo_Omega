@@ -1,0 +1,4 @@
+trailer_tools/
+*.ps1
+.DS_Store
+Thumbs.db
